@@ -1,0 +1,18 @@
+p{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    /* text-align: center;     */
+    
+}
+
+.customClass{
+    color: rgb(31, 210, 58);
+    font-size: 14px;    
+}
+
+  
+.link {
+    color: #ec0ab0;
+  }
+
