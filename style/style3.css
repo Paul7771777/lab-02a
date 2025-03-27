@@ -1,0 +1,15 @@
+h1{
+    background-color: black;
+}
+
+.bgtest{
+    background-image: url("/imagenes/fondo\ pelis.jpeg");
+}
+
+.bgGradient{
+    background-image: linear-gradient(to right, rgb(238, 198, 198), rgb(143, 92, 92));
+}
+
+p{
+    color:blueviolet;
+}
